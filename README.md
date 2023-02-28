@@ -1,4 +1,6 @@
 # Computing-with-Finite-Automata
+![Report Heading](heading.JPG)
+
 My final year maths report which I wrote on finite automata in 2021. 
 I researched the topic for 3 months; reading books/academic papers, going to
 lectures on the subject and completing exercises. Then,
@@ -7,7 +9,7 @@ other university maths work.
 
 ## What is automata?
 Automata is the plural of automaton. 
-An automaton is a self-operatng machine that performs a series of predetermined actions - 
+An automaton is a self-operating machine that performs a series of predetermined actions - 
 almost the most basic computer! 
 
 A finite automaton is a mathematical model
