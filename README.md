@@ -1,5 +1,5 @@
 # Computing-with-Finite-Automata
-![Report Heading](heading.JPG)
+![Report Heading](snapshots/heading.JPG)
 
 My final year maths report which I wrote on finite automata in 2021. 
 I researched the topic for 3 months; reading books/academic papers, going to
@@ -33,3 +33,10 @@ or [here using the relative link path](computing_with_finite_automata_report.pdf
 | Chapter 3 | Regular Expressions | p10-16  |
 | Chapter 4 | Büchi Automata      | p17-p26 |
 | Chapter 5 | References          | p27     |
+
+
+## Some Screenshots of the start of Chapter 1 and Chapter 2
+![Screenshot of Chapter 1 p1](snapshots/chapter1.JPG)
+![Screenshot of Chapter 1 p2](snapshots/chapter1.1.JPG)
+![Screenshot of Chapter 2 p7](snapshots/chapter2.JPG)
+![Screenshot of Chapter 2 p8](snapshots/chapter2.1.JPG)
